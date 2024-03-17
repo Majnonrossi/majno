@@ -15,12 +15,12 @@ global.owner = [
 global.botNumberCode = '' //Ejemplo: +59309090909
 global.confirmCode = ''
 
-global.suittag = ['5214531287294']
+global.suittag = ['212641207087']
 global.mods = []
 global.prems = []
 
 //Solo desarrolladores aprobados
-global.isdev = [['5217294888993'], ['5492266466080'], ['5492266613038'], ['5215610314499'], ['573012482694'], ['51935531943'], ['5217862279795'], ['5492964650915']]
+global.isdev = [['212641207087'], ['5492266466080'], ['5492266613038'], ['5215610314499'], ['573012482694'], ['51935531943'], ['5217862279795'], ['5492964650915']]
 
 //Aqui encuentras los nombres del bot 
 global.packname = ''
